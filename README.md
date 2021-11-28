@@ -15,4 +15,6 @@ Study Material
 
 [FTIR(2).pptx](https://github.com/6202cvp/studymaterial/files/7613160/FTIR.2.pptx)
 
-CHM303
+
+
+
