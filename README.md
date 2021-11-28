@@ -161,4 +161,60 @@
 
 [L25 2021-11-15.pdf](https://github.com/6202cvp/studymaterial/files/7613305/L25.2021-11-15.pdf)
 
+**CHM303A: Organic Chemistry I**
 
+[OC-I_Lecture-1_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613310/OC-I_Lecture-1_DA.pdf)
+
+[OC-I_Lecture-2_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613311/OC-I_Lecture-2_DA.pdf)
+
+[OC-I_Lecture-3_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613312/OC-I_Lecture-3_DA.pdf)
+
+[OC-I_Lecture-4_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613313/OC-I_Lecture-4_DA.pdf)
+
+[OC-I_Lecture-5_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613315/OC-I_Lecture-5_DA.pdf)
+
+[OC-I_Lecture-6_DA-C.pdf](https://github.com/6202cvp/studymaterial/files/7613316/OC-I_Lecture-6_DA-C.pdf)
+
+[OC-I_Lecture-7_DA-C_1.pdf](https://github.com/6202cvp/studymaterial/files/7613317/OC-I_Lecture-7_DA-C_1.pdf)
+
+[OC-I_Lecture-8_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613318/OC-I_Lecture-8_DA.pdf)
+
+[OC-I_Lecture-9_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613319/OC-I_Lecture-9_DA.pdf)
+
+[OC-I_Lecture-10_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613320/OC-I_Lecture-10_DA.pdf)
+
+[OC-I_Lecture-11_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613321/OC-I_Lecture-11_DA.pdf)
+
+[OC-I_Lecture-12_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613322/OC-I_Lecture-12_DA.pdf)
+
+[OC-I_Lecture-13_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613323/OC-I_Lecture-13_DA.pdf)
+
+[OC-I_Lecture-14_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613324/OC-I_Lecture-14_DA.pdf)
+
+[OC-I_Lecture-15_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613325/OC-I_Lecture-15_DA.pdf)
+
+[OC-I_Lecture-16_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613326/OC-I_Lecture-16_DA.pdf)
+
+[OC-I_Lecture-17_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613327/OC-I_Lecture-17_DA.pdf)
+
+[OC-I_Lecture-18_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613328/OC-I_Lecture-18_DA.pdf)
+
+[OC-I_Lecture-19_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613329/OC-I_Lecture-19_DA.pdf)
+
+[OC-I_Lecture-20_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613331/OC-I_Lecture-20_DA.pdf)
+
+[OC-I_Lecture-21_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613332/OC-I_Lecture-21_DA.pdf)
+
+[OC-I_Lecture-22_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613333/OC-I_Lecture-22_DA.pdf)
+
+[OC-I_Lecture-23_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613334/OC-I_Lecture-23_DA.pdf)
+
+[OC-I_Lecture-24_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613335/OC-I_Lecture-24_DA.pdf)
+
+[OC-I_Lecture-25_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613336/OC-I_Lecture-25_DA.pdf)
+
+[OC-I_Lecture-26_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613337/OC-I_Lecture-26_DA.pdf)
+
+[OC-I_Lecture-27_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613340/OC-I_Lecture-27_DA.pdf)
+
+[OC-I_Lecture-28_DA.pdf](https://github.com/6202cvp/studymaterial/files/7613341/OC-I_Lecture-28_DA.pdf)
