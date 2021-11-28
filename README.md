@@ -1,5 +1,5 @@
 
-****Study Material****
+**Study Material of courses**
 
 **CHM321A: Physical Chemistry I**
 
