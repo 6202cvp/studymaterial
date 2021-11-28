@@ -1,4 +1,4 @@
-# studymaterial
+# Study Material
 Study Material
  Padmaja Chavan
 
