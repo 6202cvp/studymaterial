@@ -1,6 +1,11 @@
 
 **Study Material of courses**
 
+**CHM322: Physical Chemistry 2**
+
+
+
+
 **CHM321A: Physical Chemistry I**
 
 [Handout_Lecture1.pdf](https://github.com/6202cvp/studymaterial/files/7613217/Handout_Lecture1.pdf)
