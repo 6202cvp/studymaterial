@@ -1,5 +1,5 @@
 
-Study maerial of Prelims (History)
+*Study material of Prelims (History)*
 
 [Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-1_11-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8790689/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-1_11-05-22.pdf)
 
