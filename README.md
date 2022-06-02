@@ -3,8 +3,24 @@
 
 [Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-1_11-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8790689/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-1_11-05-22.pdf)
 
-**Study Material of courses**
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-2_12-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8825955/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-2_12-05-22.pdf)
 
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-3_13-05-22.pdf.pdf](https://github.com/6202cvp/studymaterial/files/8825964/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-3_13-05-22.pdf.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-4_13-05-22.pdf.pdf](https://github.com/6202cvp/studymaterial/files/8825968/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-4_13-05-22.pdf.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-_5__14-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8825971/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-_5__14-05-22.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-_6_14-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8825973/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-_6_14-05-22.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-_7_16-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8825974/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-_7_16-05-22.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Lecture_-_8_17-05-22.pdf](https://github.com/6202cvp/studymaterial/files/8825976/Class_-_PPT_History_GS_Revision_._MCQ_Lecture_-_8_17-05-22.pdf)
+
+[Class_-_PPT_History_GS_Revision_&_MCQ_Combined_Lectures_compressed.pdf](https://github.com/6202cvp/studymaterial/files/8825985/Class_-_PPT_History_GS_Revision_._MCQ_Combined_Lectures_compressed.pdf)
+
+
+**Study Material of courses**
 
 **CHM322: Physical Chemistry 2**
 
